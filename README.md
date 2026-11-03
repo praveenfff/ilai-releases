@@ -33,6 +33,9 @@ Both apps look for updates by themselves and tell you when one is out. [All rele
 - Passwords and keys are kept in Windows' own credential vault. GitHub and Jira sign-ins stay on the server; Ilai on
   your PC never holds their tokens.
 - Updates are checked against the release's published digest before they install.
+- **One update for your servers too.** What Ilai puts on a server — its agent with pi, the Node.js it runs on, and
+  herdr-core — is the set that Ilai release was tested with, each file checked against its SHA-256 where it lands.
+  Nothing is installed from npm there, and plain SSH hosts are left untouched.
 
 ## Install
 
