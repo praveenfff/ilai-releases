@@ -9,7 +9,7 @@ answer them when they ask, review what they changed and ship it.
 | **Android** | **[Ilai-Android.apk](https://github.com/praveenfff/ilai-releases/releases/latest/download/Ilai-Android.apk)** | The phone app: your agents and servers in your pocket |
 | **Handbook** | **[Ilai-Handbook.pdf](https://github.com/praveenfff/ilai-releases/releases/latest/download/Ilai-Handbook.pdf)** | Every feature, step by step |
 
-Both apps look for updates by themselves and tell you when one is out. [All releases](https://github.com/praveenfff/ilai-releases/releases)
+Ilai and the Android app look for updates by themselves and tell you when one is out. [All releases](https://github.com/praveenfff/ilai-releases/releases)
 
 ## What it does
 
